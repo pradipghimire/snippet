@@ -1,1 +1,4 @@
 #Linux Fixes Repository:
+
+1. Checking memory free space:
+$ sudo free -m
